@@ -1,8 +1,8 @@
-#**Resume**
+##**Resume**
 
-## *Yahor Khudaleyeu*
+*Yahor Khudaleyeu*
 
-## MTS: +375-29-550-29-64, Vel:+375-29-650-29-64, Skype: +375-29-650-29-64, Telegram: +375-29-650-29-64
+MTS: +375-29-550-29-64, Vel:+375-29-650-29-64, Skype: +375-29-650-29-64, Telegram: +375-29-650-29-64
 
 *My goal is to obtain knowledge and expirience in android development so as to become an android developer*
 
@@ -52,7 +52,9 @@ Testcase management :  | Testrail
 
 **Education:**
 	*	School of business of BSU;
+
 	*	Bordeaux 4;
+
 	*	Internal QA automation Solvd Inc courses;
 
 **English:**
