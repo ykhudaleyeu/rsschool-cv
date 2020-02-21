@@ -1,4 +1,4 @@
-##**Resume**
+#**Resume**
 
 *Yahor Khudaleyeu*
 
@@ -51,6 +51,7 @@ Testcase management :  | Testrail
 	```//TODO: need to update later```
 
 **Education:**
+
 	*	School of business of BSU;
 
 	*	Bordeaux 4;
@@ -58,4 +59,5 @@ Testcase management :  | Testrail
 	*	Internal QA automation Solvd Inc courses;
 
 **English:**
+
 	*	Daily meetings with customer
